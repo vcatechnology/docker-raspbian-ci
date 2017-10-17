@@ -1,4 +1,4 @@
-FROM vcatechnology/raspbian
+FROM vcatechnology/raspbian:3
 MAINTAINER VCA Technology <developers@vcatechnology.com>
 
 # Start emulation
